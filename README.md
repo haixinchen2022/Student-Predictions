@@ -1,4 +1,4 @@
-####Predictive Model for Online Learning Performance
+Predictive Model for Online Learning Performance
 ##Introduction
 The prevalence of online learning has experienced a significant surge, providing a convenient avenue for individuals to acquire new skills and knowledge in the age of the internet. However, the autonomy required in online learning presents challenges for students who must independently motivate and regulate their learning processes. A crucial question emerges: How can we identify and provide support to students at risk of dropping out or failing in online courses? This question forms the core focus of our data science project.
 

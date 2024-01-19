@@ -16,6 +16,6 @@ The document's structure unfolds as follows:
 #### Section 4: Results and Analysis
 * Delves into presenting the results and analysis, including performance metrics and their interpretation.
 #### Section 5: Discussion of Limitations and Implications
+* Engages with the discussion of limitations and implications, along with potential avenues for future enhancements to the project.
 
-Engages with the discussion of limitations and implications, along with potential avenues for future enhancements to the project.
 This document serves as a comprehensive guide to understanding the objectives, methodology, and outcomes of our data science project focused on predicting online learning performance.
